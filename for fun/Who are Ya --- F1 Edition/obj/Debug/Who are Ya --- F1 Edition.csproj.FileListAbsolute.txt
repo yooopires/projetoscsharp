@@ -1,0 +1,8 @@
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\bin\Debug\Who are Ya --- F1 Edition.exe.config
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\bin\Debug\Who are Ya --- F1 Edition.exe
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\bin\Debug\Who are Ya --- F1 Edition.pdb
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\obj\Debug\Who are Ya --- F1 Edition.csproj.AssemblyReference.cache
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\obj\Debug\Who are Ya --- F1 Edition.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\obj\Debug\Who are Ya --- F1 Edition.csproj.CoreCompileInputs.cache
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\obj\Debug\Who are Ya --- F1 Edition.exe
+C:\Users\jonny\OneDrive\Documentos\for fun\Who are Ya --- F1 Edition\obj\Debug\Who are Ya --- F1 Edition.pdb
